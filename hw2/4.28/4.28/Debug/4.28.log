@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\user\desktop\10-26\4.28\4.28\source.c(5): warning C4101: 'managers': 未參考的區域變數
+c:\users\user\desktop\10-26\4.28\4.28\source.c(5): warning C4101: 'hourly': 未參考的區域變數
+c:\users\user\desktop\10-26\4.28\4.28\source.c(5): warning C4101: 'commission': 未參考的區域變數
+c:\users\user\desktop\10-26\4.28\4.28\source.c(5): warning C4101: 'piece': 未參考的區域變數
+  4.28.vcxproj -> C:\Users\user\Desktop\10-26\4.28\Debug\4.28.exe
