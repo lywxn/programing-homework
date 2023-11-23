@@ -36,5 +36,6 @@ int main() {
 	// 使用遞迴函數找到陣列 a 的最大值並印出
 	printf("The maximum of array a is %d\n", recursiveMaximum(a, 10));
 
+	system("pause");
 	return 0;
 }

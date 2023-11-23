@@ -18,7 +18,8 @@ int main() {
 
 	shuffle(deck);
 	deal(deck, face, suit);
-
+	
+	system("pause");
 }
 
 void shuffle(int wDeck[][13]) {

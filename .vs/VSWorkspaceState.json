@@ -2,8 +2,17 @@
   "ExpandedNodes": [
     "",
     "\\hw5",
-    "\\hw5\\6.19\\6.19"
+    "\\hw5\\6.36\\6.36",
+    "\\hw5\\6.37\\6.37",
+    "\\hw5\\p05\\p05",
+    "\\hw5\\p06\\p06",
+    "\\hw5\\p10\\p10",
+    "\\hw5\\p13\\p13",
+    "\\hw5\\p15\\p15",
+    "\\hw5\\p19\\p19",
+    "\\hw5\\p25",
+    "\\hw5\\p25\\p25"
   ],
-  "SelectedNode": "\\hw5\\6.19",
+  "SelectedNode": "\\hw5\\p25\\p25\\Source.c",
   "PreviewInSolutionExplorer": false
 }

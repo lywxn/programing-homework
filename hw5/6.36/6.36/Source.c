@@ -41,5 +41,6 @@ int main() {
 		printf("¿é¤J¿ù»~¡C\n");
 	}
 
+	system("pause");
 	return 0;
 }

@@ -61,5 +61,6 @@ int main() {
 	else
 		printf("目標值 %d 在陣列中的索引為 %d\n", target, result);
 
+	system("pause");
 	return 0;
 }
