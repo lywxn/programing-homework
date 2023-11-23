@@ -23,5 +23,6 @@ int main()
 		printf("%d\t%d\t\t%.3f\n", i, count[i], probability);
 	}
 
+	system("pause");
 	return 0;
 }
