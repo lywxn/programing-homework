@@ -12,6 +12,7 @@ int main()
 		arr[i] = rand();
 	}
 
+
 	for (int i = 0; i < s - 1; i++) 
 	{
 		for (int j = 0; j < s - 1 - i; j++) 
